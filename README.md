@@ -1,5 +1,5 @@
 
-# :sparkles: SacredGames: Hide That Spoiler - Chrome Extension <img src="sacred-games-title.png" alt="🐺" width="64"/>
+# :sparkles: SacredGames: Hide That Spoiler - Chrome Extension <img src="Sacred_Games-Title.png" width="64"/>
 
 This extension will save you from reading any Sacred Games Spoilers as well as visual images. <br/>
 
